@@ -75,7 +75,7 @@ webnest installed
 | `webnest <url>` | Create a web app from the URL |
 | `webnest list` | List available browsers |
 | `webnest installed` | List all installed web apps |
-| `webnest remove <name>` | Remove a web app by name |
+| `webnest remove <name> --browser <browser>` | Remove a web app by name |
 
 ### List Available Browsers
 
@@ -109,6 +109,8 @@ WebNest places apps in the standard locations used by browsers:
 - **Microsoft Edge** - `edge`
 - **Brave Browser** - `brave`
 - **Chromium** - `chromium`
+- **Comet** - `comet`
+- **Atlas** - `atlas`
 
 ## How It Works
 
