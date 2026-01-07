@@ -1,0 +1,24 @@
+{
+  "name": "webnest",
+  "version": "1.0.0",
+  "description": "NodeJS application that creates a desktop app out of a URL using your favorite browser to wrap it. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/walkerfirmin/WebNest.git"
+  },
+  "keywords": [
+    "Desktop",
+    "PWA",
+    "URL"
+  ],
+  "author": "walkerfirmin",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/walkerfirmin/WebNest/issues"
+  },
+  "homepage": "https://github.com/walkerfirmin/WebNest#readme"
+}
